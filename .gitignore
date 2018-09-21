@@ -2,11 +2,7 @@
 /dl
 /.config.old
 /..config.tmp
-*.depend
 *.o
-/*.patch
-/*.diff
-*.orig
 *.rej
 *~
 *.pyc
